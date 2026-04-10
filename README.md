@@ -24,3 +24,10 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40""></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Maya" alt="Maya" width="40" height="40""></a>
 </p>
+
+<h2> Projects </h2>
+
+https://shadikodehode.github.io/DigimonViewer/
+-hosted on: https://github.com/shadikodehode
+
+Currently I only have project on my study account, check them out if you're interested 
