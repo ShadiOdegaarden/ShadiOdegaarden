@@ -24,7 +24,3 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40""></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Maya" alt="Maya" width="40" height="40""></a>
 </p>
-
-<h2>Projects</h3>
-
-[Digimon Viewer](https://shadikodehode.github.io/DigimonViewer)
