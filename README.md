@@ -27,5 +27,5 @@
 
 <h2> Projects </h2>
 
-[DigimonViewer](https://shadikodehode.github.io/DigimonViewer/)
--hosted on my [study account](https://github.com/shadikodehode)
+[DigimonViewer](https://shadikodehode.github.io/DigimonViewer/)  
+  -hosted on my [study account](https://github.com/shadikodehode)
